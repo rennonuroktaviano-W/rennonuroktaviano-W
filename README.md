@@ -34,21 +34,17 @@
   <h2>⚡ <span style="color: #00F5FF;">ABOUT ME</span> ⚡</h2>
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="background: linear-gradient(135deg, #0F172A 0%, #111827 100%); border: 1px solid #00F5FF; border-radius: 15px; padding: 25px; box-shadow: 0 0 15px rgba(0, 245, 255, 0.3);">
-      <p align="justify" style="color: #E2E8F0; font-family: 'Inter', sans-serif; font-size: 15px; line-height: 1.6;">
-        👋 Halo! Saya seorang <b>Full Stack Web & Mobile Developer</b> yang berfokus pada pembuatan aplikasi modern, performa tinggi, dan scalable.
-      </p>
-      <p align="justify" style="color: #E2E8F0; font-family: 'Inter', sans-serif; font-size: 15px; line-height: 1.6;">
-        💡 Saya sangat menyukai <b>Clean Code</b>, desain <b>UI/UX Modern</b>, arsitektur backend yang kokoh, serta terus mendalami ekosistem web dan mobile terbaru. 
-      </p>
-      <p align="justify" style="color: #E2E8F0; font-family: 'Inter', sans-serif; font-size: 15px; line-height: 1.6;">
-        🎮 Ketika tidak sedang menatap baris kode, kamu akan menemukan saya sedang mengasah kemampuan di dunia game kompetitif maupun menjelajahi dunia game <i>Open World</i>.
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="background: #0F172A; border: 1px solid #00F5FF; border-radius: 12px; padding: 20px;">
+  <p align="justify" style="color: #E2E8F0; font-family: sans-serif; font-size: 15px; line-height: 1.6; margin: 0 0 10px 0;">
+    👋 Halo! Saya seorang <b>Full Stack Web & Mobile Developer</b> yang berfokus pada pembuatan aplikasi modern, performa tinggi, dan scalable.
+  </p>
+  <p align="justify" style="color: #E2E8F0; font-family: sans-serif; font-size: 15px; line-height: 1.6; margin: 0 0 10px 0;">
+    💡 Saya sangat menyukai <b>Clean Code</b>, desain <b>UI/UX Modern</b>, arsitektur backend yang kokoh, serta terus mendalami ekosistem web dan mobile terbaru.
+  </p>
+  <p align="justify" style="color: #E2E8F0; font-family: sans-serif; font-size: 15px; line-height: 1.6; margin: 0;">
+    🎮 Ketika tidak sedang menatap baris kode, kamu akan menemukan saya sedang mengasah kemampuan di dunia game kompetitif maupun menjelajahi dunia game <i>Open World</i>.
+  </p>
+</div>
 
 <br/>
 
@@ -113,16 +109,16 @@
 </div>
 
 <div align="center">
-  <pre style="background-color: #0F172A; color: #00F5FF; border: 1px solid #8B5CF6; border-radius: 10px; padding: 15px; font-family: 'JetBrains Mono', monospace; width: 90%; text-align: left;">
- HTML       ███████████████████░░ 95%
- CSS        ██████████████████░░░ 90%
- Tailwind   ███████████████████░░ 95%
- JavaScript █████████████████░░░░ 85%
- React.js   █████████████████░░░░ 85%
- Next.js    ████████████████░░░░░ 80%
- Laravel    ██████████████████░░░ 90%
- Flutter    █████████████████░░░░ 85%
- Dart       █████████████████░░░░ 85%
+  <pre style="background-color: #0F172A; color: #00F5FF; border: 1px solid #8B5CF6; border-radius: 10px; padding: 15px; font-family: monospace; width: 90%; text-align: left;">
+HTML       ███████████████████░░ 95%
+CSS        ██████████████████░░░ 90%
+Tailwind   ███████████████████░░ 95%
+JavaScript █████████████████░░░░ 85%
+React.js   █████████████████░░░░ 85%
+Next.js    ████████████████░░░░░ 80%
+Laravel    ██████████████████░░░ 90%
+Flutter    █████████████████░░░░ 85%
+Dart       █████████████████░░░░ 85%
   </pre>
 </div>
 
@@ -131,28 +127,19 @@
 <!-- ================= GITHUB STATS & DASHBOARD ================= -->
 <div align="center">
   <h2>📈 <span style="color: #A855F7;">GITHUB ANALYTICS</span> 📈</h2>
-</div>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rennonuroktaviano-W&show_icons=true&theme=dark&hide_border=false&border_color=00F5FF&bg_color=0F172A&title_color=00F5FF&text_color=E2E8F0&icon_color=8B5CF6" alt="GitHub Stats" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennonuroktaviano-W&layout=compact&theme=dark&hide_border=false&border_color=8B5CF6&bg_color=0F172A&title_color=00F5FF&text_color=E2E8F0" alt="Top Languages" width="48%"/>
+  </p>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rennonuroktaviano-W&show_icons=true&theme=cyberpunk&hide_border=false&border_color=00F5FF&bg_color=0F172A&title_color=00F5FF&text_color=E2E8F0&icon_color=8B5CF6" alt="GitHub Stats" width="400"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennonuroktaviano-W&layout=compact&theme=cyberpunk&hide_border=false&border_color=8B5CF6&bg_color=0F172A&title_color=00F5FF&text_color=E2E8F0" alt="Top Languages" width="380"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rennonuroktaviano-W&theme=cyberpunk&hide_border=false&border_color=00F5FF&background=0F172A&stroke=00F5FF&ring=8B5CF6&fire=00F5FF&currStreakNum=00F5FF" alt="GitHub Streak" width="95%"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rennonuroktaviano-W&theme=react-dark&bg_color=0F172A&color=00F5FF&line=8B5CF6&point=22D3EE&area=true&hide_border=false&border=00F5FF" width="95%" alt="Activity Graph"/>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rennonuroktaviano-W&theme=dark&hide_border=false&border_color=00F5FF&background=0F172A&stroke=00F5FF&ring=8B5CF6&fire=00F5FF&currStreakNum=00F5FF" alt="GitHub Streak" width="97%"/>
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rennonuroktaviano-W&theme=react-dark&bg_color=0F172A&color=00F5FF&line=8B5CF6&point=22D3EE&area=true&hide_border=false&border=00F5FF" width="97%" alt="Activity Graph"/>
+  </p>
 </div>
 
 <br/>
@@ -187,53 +174,43 @@
 
 <br/>
 
-<!-- ================= GAMER SECTION (RGB GLASS STYLE) ================= -->
+<!-- ================= GAMER SECTION ================= -->
 <div align="center">
   <h2>🎮 <span style="color: #00F5FF;">PLAYER MODE ACTIVATED</span> 🎮</h2>
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="background: linear-gradient(135deg, #050505 0%, #0F172A 50%, #111827 100%); border: 2px solid #00F5FF; border-radius: 15px; padding: 20px; box-shadow: 0 0 20px rgba(0,245,255,0.4);">
-      
-      <!-- GAMING SETUP & STATUS -->
-      <table width="100%">
-        <tr>
-          <td width="50%" valign="top">
-            <h4 style="color: #8B5CF6; margin-bottom: 10px;">🖥️ BATTLESTATION SETUP</h4>
-            <ul style="color: #E2E8F0; list-style-type: none; padding-left: 0;">
-              <li>⌨️ <b>Keyboard:</b> Mechanical RGB Custom</li>
-              <li>🖥️ <b>Display:</b> Dual Gaming Monitor Setup</li>
-              <li>🎧 <b>Headset:</b> Surround Sound RGB Gaming Headset</li>
-              <li>🖱️ <b>Mouse:</b> High Precision DPI Gaming Mouse</li>
-            </ul>
-          </td>
-          <td width="50%" valign="top">
-            <h4 style="color: #00F5FF; margin-bottom: 10px;">🔴 LIVE STATUS</h4>
-            <p>🟢 <span style="color: #22C55E;"><b>ONLINE</b></span> - Ready to Collaborate</p>
-            <p>💻 <span style="color: #00F5FF;"><b>CODING</b></span> - Building cool stuff</p>
-            <p>🎮 <span style="color: #A855F7;"><b>PLAYING</b></span> - In-game match</p>
-            <p>☕ <span style="color: #EAB308;"><b>COFFEE BREAK</b></span> - Recharging</p>
-          </td>
-        </tr>
-      </table>
+<div style="background: #0F172A; border: 2px solid #00F5FF; border-radius: 15px; padding: 20px;">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h4 style="color: #8B5CF6; margin-top: 0;">🖥️ BATTLESTATION SETUP</h4>
+        <p style="color: #E2E8F0; margin: 5px 0;">⌨️ <b>Keyboard:</b> Mechanical RGB Custom</p>
+        <p style="color: #E2E8F0; margin: 5px 0;">🖥️ <b>Display:</b> Dual Gaming Monitor Setup</p>
+        <p style="color: #E2E8F0; margin: 5px 0;">🎧 <b>Headset:</b> Surround Sound RGB Gaming Headset</p>
+        <p style="color: #E2E8F0; margin: 5px 0;">🖱️ <b>Mouse:</b> High Precision DPI Gaming Mouse</p>
+      </td>
+      <td width="50%" valign="top">
+        <h4 style="color: #00F5FF; margin-top: 0;">🔴 LIVE STATUS</h4>
+        <p style="margin: 5px 0;">🟢 <span style="color: #22C55E;"><b>ONLINE</b></span> - Ready to Collaborate</p>
+        <p style="margin: 5px 0;">💻 <span style="color: #00F5FF;"><b>CODING</b></span> - Building cool stuff</p>
+        <p style="margin: 5px 0;">🎮 <span style="color: #A855F7;"><b>PLAYING</b></span> - In-game match</p>
+        <p style="margin: 5px 0;">☕ <span style="color: #EAB308;"><b>COFFEE BREAK</b></span> - Recharging</p>
+      </td>
+    </tr>
+  </table>
 
-      <hr style="border: 0.5px solid #334155; margin: 15px 0;"/>
+  <hr style="border: 0.5px solid #334155; margin: 15px 0;"/>
 
-      <!-- FAVORITE GAMES -->
-      <h4 align="center" style="color: #38BDF8;">🎯 FAVORITE GAMES</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Minecraft-2E7D32?style=for-the-badge&logo=minecraft&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GTA_V-F57C00?style=for-the-badge&logo=grandtheftauto&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Genshin_Impact-4A148C?style=for-the-badge&logo=genshinimpact&logoColor=white"/>
-        <img src="https://img.shields.io/badge/EA_FC-000000?style=for-the-badge&logo=ea&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Call_of_Duty-111111?style=for-the-badge&logo=callofduty&logoColor=white"/>
-      </p>
-
-    </td>
-  </tr>
-</table>
+  <h4 align="center" style="color: #38BDF8; margin-bottom: 10px;">🎯 FAVORITE GAMES</h4>
+  <p align="center" style="margin: 0;">
+    <img src="https://img.shields.io/badge/Minecraft-2E7D32?style=for-the-badge&logo=minecraft&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GTA_V-F57C00?style=for-the-badge&logo=grandtheftauto&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Genshin_Impact-4A148C?style=for-the-badge&logo=genshinimpact&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EA_FC-000000?style=for-the-badge&logo=ea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Call_of_Duty-111111?style=for-the-badge&logo=callofduty&logoColor=white"/>
+  </p>
+</div>
 
 <br/>
 
@@ -281,18 +258,14 @@
 
 <!-- ================= QUOTE ================= -->
 <div align="center">
-  <table width="80%">
-    <tr>
-      <td align="center" style="background: #0F172A; border-left: 4px solid #00F5FF; border-right: 4px solid #8B5CF6; border-radius: 8px; padding: 10px;">
-        <p style="font-family: 'JetBrains Mono', monospace; color: #38BDF8; font-size: 16px; margin: 0;">
-          <b>while</b> ( !success ) { <br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<b>tryAgain</b>(); <br/>
-          }
-        </p>
-        <p style="color: #94A3B8; font-size: 12px; margin-top: 5px;"><i>Eat. Sleep. Code. Repeat.</i></p>
-      </td>
-    </tr>
-  </table>
+  <div style="background: #0F172A; border-left: 4px solid #00F5FF; border-right: 4px solid #8B5CF6; border-radius: 8px; padding: 15px; width: 80%;">
+    <p style="font-family: monospace; color: #38BDF8; font-size: 16px; margin: 0;">
+      <b>while</b> ( !success ) { <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<b>tryAgain</b>(); <br/>
+      }
+    </p>
+    <p style="color: #94A3B8; font-size: 12px; margin-top: 5px; margin-bottom: 0;"><i>Eat. Sleep. Code. Repeat.</i></p>
+  </div>
 </div>
 
 <br/>
