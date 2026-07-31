@@ -127,12 +127,6 @@ Dart       █████████████████░░░░ 85%
 <!-- ================= GITHUB STATS & DASHBOARD ================= -->
 <div align="center">
   <h2>📈 <span style="color: #A855F7;">GITHUB ANALYTICS</span> 📈</h2>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rennonuroktaviano-W&show_icons=true&theme=dark&hide_border=false&border_color=00F5FF&bg_color=0F172A&title_color=00F5FF&text_color=E2E8F0&icon_color=8B5CF6" alt="GitHub Stats" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennonuroktaviano-W&layout=compact&theme=dark&hide_border=false&border_color=8B5CF6&bg_color=0F172A&title_color=00F5FF&text_color=E2E8F0" alt="Top Languages" width="48%"/>
-  </p>
-
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rennonuroktaviano-W&theme=dark&hide_border=false&border_color=00F5FF&background=0F172A&stroke=00F5FF&ring=8B5CF6&fire=00F5FF&currStreakNum=00F5FF" alt="GitHub Streak" width="97%"/>
   </p>
