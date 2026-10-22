@@ -23,6 +23,9 @@
     <a href="https://github.com/rennonuroktaviano-W">
       <img src="https://img.shields.io/badge/Level-Pro%20Dev-22D3EE?style=for-the-badge&logo=gamepad&logoColor=black" alt="Level"/>
     </a>
+    <a href="https://rennonuroktaviano.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Live%20Site-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+    </a>
   </p>
 
 </div>
@@ -36,13 +39,16 @@
 
 <div style="background: #0F172A; border: 1px solid #00F5FF; border-radius: 12px; padding: 20px;">
   <p align="justify" style="color: #E2E8F0; font-family: sans-serif; font-size: 15px; line-height: 1.6; margin: 0 0 10px 0;">
-    👋 Halo! Saya seorang <b>Full Stack Web & Mobile Developer</b> yang berfokus pada pembuatan aplikasi modern, performa tinggi, dan scalable.
+    👋 Halo! Saya <b>Renno Nur Oktaviano</b>, seorang <b>Full Stack Web & Mobile Developer</b> yang berfokus pada pembuatan aplikasi modern, performa tinggi, dan scalable.
   </p>
   <p align="justify" style="color: #E2E8F0; font-family: sans-serif; font-size: 15px; line-height: 1.6; margin: 0 0 10px 0;">
     💡 Saya sangat menyukai <b>Clean Code</b>, desain <b>UI/UX Modern</b>, arsitektur backend yang kokoh, serta terus mendalami ekosistem web dan mobile terbaru.
   </p>
   <p align="justify" style="color: #E2E8F0; font-family: sans-serif; font-size: 15px; line-height: 1.6; margin: 0;">
     🎮 Ketika tidak sedang menatap baris kode, kamu akan menemukan saya sedang mengasah kemampuan di dunia game kompetitif maupun menjelajahi dunia game <i>Open World</i>.
+  </p>
+  <p style="justify-content: center; color: #E2E8F0; font-family: sans-serif; font-size: 15px; line-height: 1.6; margin: 10px 0 0 0;">
+    🌐 Website portofolio saya: <a href="https://rennonuroktaviano.vercel.app" target="_blank"><b>https://rennonuroktaviano.vercel.app</b></a> — full-stack web (Next.js, TypeScript, Laravel, PostgreSQL) dengan 6 bahasa, plus halaman bio dan study kasus proyek.
   </p>
 </div>
 
@@ -163,6 +169,10 @@ Dart       █████████████████░░░░ 85%
       <h3 style="color: #00F5FF; margin: 0;">📱 Flutter Mobile Application</h3>
       <p style="color: #94A3B8; font-size: 13px;">Cross-platform mobile app with rich UI animations and seamless REST API integration.</p>
     </td>
+    <td width="50%" style="background: #0F172A; border: 1px solid #00F5FF; border-radius: 10px; padding: 15px;">
+      <h3 style="color: #38BDF8; margin: 0;">🌆 KODECITY — 80s Neo-Noir Portfolio</h3>
+      <p style="color: #94A3B8; font-size: 13px;">Interactive full-stack portfolio (Next.js 16, TypeScript, Tailwind, GSAP): 9 scroll scenes, 6 languages, case files and bio page — <a href="https://rennonuroktaviano.vercel.app" target="_blank">live site</a>.</p>
+    </td>
   </tr>
 </table>
 
@@ -238,6 +248,9 @@ Dart       █████████████████░░░░ 85%
     </a>
     <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/renno-nur-oktaviano-869675380?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://rennonuroktaviano.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
     </a>
     <a href="mailto:rennonuroktaviano@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
